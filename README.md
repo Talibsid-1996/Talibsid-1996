@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Mohd Talib
+### **Hi there 👋, My Name is Mohd Talib**
 ![](https://th.bing.com/th/id/OIP.swx1cPx6ZgFcIs5C01PBnwHaEK?pid=ImgDet&rs=1)
 
 I am a machine learning enthusiast and aspiring data scientist who loves finding actionable insights love to work on real-time projects.
